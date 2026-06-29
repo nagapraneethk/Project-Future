@@ -189,16 +189,16 @@
   },
   "active": "5ef538ce8739a4e4",
   "lastOpenFiles": [
-    "00 System/Templates",
-    "00 System/Scripts",
-    "00 System/Assets",
-    "00 System",
-    "01 Dashboard",
-    "02 Notes",
-    "03 Sessions",
-    "04 Projects",
-    "05 Resources",
-    "Daily",
-    "Archive"
+    "Daily/temp.temp",
+    "Archive/temp.temp",
+    "05 Resources/temp.temp",
+    "04 Projects/temp.temp",
+    "03 Sessions/temp.temp",
+    "02 Notes/temp.temp",
+    "01 Dashboard/temp.temp",
+    "00 System/Templates/temp.temp",
+    "00 System/Scripts/temp.temp",
+    "00 System/Assets/temp.temp",
+    "00 System/Templates"
   ]
 }
