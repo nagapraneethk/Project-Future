@@ -1,14 +1,11 @@
 ---
 type: idea
-created: <% tp.date.now("YYYY-MM-DD") %>
+created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 status: inbox
-tags: []
 ---
 
 # Idea
 
-## Why?
-
-## Possible Solution
+## Why
 
 ## Next Step

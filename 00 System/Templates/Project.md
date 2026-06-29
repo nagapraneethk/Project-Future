@@ -1,22 +1,14 @@
 ---
 type: project
-status: active
 created: <% tp.date.now("YYYY-MM-DD") %>
-tags: []
+status: active
+priority: high
 ---
 
-# Project
-
-## Overview
+# Overview
 
 ## Goals
-
 - [ ]
 
-## Milestones
-
+## Next Actions
 - [ ]
-
-## Resources
-
-## Notes

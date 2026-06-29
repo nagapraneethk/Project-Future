@@ -1,14 +1,11 @@
 ---
 type: meeting
-created: <% tp.date.now("YYYY-MM-DD") %>
-participants:
-tags: []
+created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 ---
 
 # Agenda
 
-## Discussion
-
-## Decisions
+## Notes
 
 ## Action Items
+- [ ]

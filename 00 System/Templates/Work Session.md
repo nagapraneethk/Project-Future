@@ -1,32 +1,16 @@
 ---
 type: session
 project:
-date: <% tp.date.now("YYYY-MM-DD") %>
-start:
-end:
-duration:
+created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 status: active
-tags: []
+priority: medium
 ---
 
-# Work Session
+# Goal
 
-## Goal
-
--
-
-## Tasks Completed
-
+## Tasks
 - [ ]
 
-## Learnings
+## Notes
 
--
-
-## Problems
-
--
-
-## Next Session
-
--
+## Next
