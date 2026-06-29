@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5ef538ce8739a4e4",
+            "id": "fe11c085293f5b74",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -187,18 +194,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5ef538ce8739a4e4",
+  "active": "fe11c085293f5b74",
   "lastOpenFiles": [
-    "Daily/temp.temp",
-    "Archive/temp.temp",
-    "05 Resources/temp.temp",
-    "04 Projects/temp.temp",
-    "03 Sessions/temp.temp",
-    "02 Notes/temp.temp",
-    "01 Dashboard/temp.temp",
-    "00 System/Templates/temp.temp",
-    "00 System/Scripts/temp.temp",
-    "00 System/Assets/temp.temp",
-    "00 System/Templates"
+    "00 System/Templates/Work Session.md",
+    "00 System/Templates/Resource.md",
+    "00 System/Templates/Project.md",
+    "00 System/Templates/Meeting.md",
+    "00 System/Templates/Idea.md",
+    "00 System/Templates/Daily.md",
+    "00 System/Templates/Concept.md",
+    "00 System/Templates",
+    "00 System/Scripts",
+    "00 System/Assets",
+    "00 System",
+    "01 Dashboard/Sessions.md",
+    "01 Dashboard/Projects.md",
+    "01 Dashboard/Knowledge.md",
+    "01 Dashboard/Home.md",
+    "01 Dashboard",
+    "02 Notes",
+    "03 Sessions",
+    "04 Projects/Project FUTURE.md",
+    "04 Projects",
+    "05 Resources",
+    "Daily",
+    "00 System copy/Templates/Work Session.md",
+    "00 System copy/Templates/Resource.md",
+    "00 System copy/Templates/Project.md",
+    "00 System copy/Templates/Meeting.md",
+    "00 System copy/Templates/Idea.md",
+    "00 System copy/Templates/Daily.md",
+    "00 System copy/Templates/Concept.md",
+    "01 Dashboard copy/Sessions.md",
+    "01 Dashboard copy/Projects.md",
+    "01 Dashboard copy/Knowledge.md",
+    "01 Dashboard copy/Home.md",
+    "04 Projects copy/Project FUTURE.md",
+    "Untitled.md",
+    "Daily.md"
   ]
 }
