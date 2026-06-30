@@ -1,7 +1,7 @@
 # 📥 Inbox
 
 ```dataview
-LIST
+TABLE type, created
 WHERE status="inbox"
 SORT created DESC
 ```

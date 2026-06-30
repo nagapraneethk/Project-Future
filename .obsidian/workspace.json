@@ -189,6 +189,16 @@
   },
   "active": "fe11c085293f5b74",
   "lastOpenFiles": [
+    "vault/01 Dashboard/Analytics.md",
+    "vault/01 Dashboard/Reviews.md",
+    "vault/01 Dashboard/Areas.md",
+    "vault/01 Dashboard/Analytics copy.md",
+    "vault/01 Dashboard/Reviews copy.md",
+    "vault/01 Dashboard/Inbox copy 2.md",
+    "vault/01 Dashboard/Areas copy.md",
+    "vault/01 Dashboard/Inbox copy.md",
+    "docs/WORKFLOW.md",
+    "docs/PLUGIN_SETUP.md",
     "vault/01 Dashboard/Inbox.md",
     "vault/01 Dashboard/Goals.md",
     "vault/00 System/Templates/Work Session.md",
@@ -207,10 +217,6 @@
     "docs",
     "modules/README.md",
     "modules",
-    "vault/01 Dashboard/Sessions.md",
-    "vault/01 Dashboard/Projects.md",
-    "vault/01 Dashboard/Knowledge.md",
-    "vault/01 Dashboard/Home.md",
     "vault/00 System/Templates",
     "vault/00 System/Scripts",
     "vault/00 System/Assets",
@@ -218,12 +224,6 @@
     "vault/Archive",
     "vault/05 Resources",
     "vault/04 Projects",
-    "vault/03 Sessions",
-    "01 Dashboard/Sessions.md",
-    "01 Dashboard/README.md",
-    "01 Dashboard/Projects.md",
-    "01 Dashboard/Navigation.md",
-    "01 Dashboard/Knowledge.md",
-    "01 Dashboard/Home.md"
+    "vault/03 Sessions"
   ]
 }
