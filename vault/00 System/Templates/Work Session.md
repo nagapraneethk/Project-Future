@@ -4,6 +4,7 @@ project:
 created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 status: active
 priority: medium
+tags: []
 ---
 
 # Goal
@@ -11,6 +12,8 @@ priority: medium
 ## Tasks
 - [ ]
 
-## Notes
+## Learnings
 
-## Next
+## Blockers
+
+## Next Action

@@ -11,14 +11,10 @@
             "id": "fe11c085293f5b74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Dashboard/Sessions.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Sessions"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dashboard/Sessions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sessions"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dashboard/Sessions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sessions"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dashboard/Sessions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sessions"
+              "title": "Outline"
             }
           },
           {
@@ -196,41 +189,41 @@
   },
   "active": "fe11c085293f5b74",
   "lastOpenFiles": [
+    "vault/01 Dashboard/Inbox.md",
+    "vault/01 Dashboard/Goals.md",
+    "vault/00 System/Templates/Work Session.md",
+    "vault/00 System/Templates/Weekly Review.md",
+    "vault/00 System/Templates/Resource.md",
+    "vault/00 System/Templates/Project.md",
+    "vault/00 System/Templates/Monthly Review.md",
+    "vault/00 System/Templates/Meeting.md",
+    "vault/00 System/Templates/Idea.md",
+    "vault/00 System/Templates/Daily.md",
+    "vault/00 System/Templates/Concept.md",
+    "README.md",
+    "CHANGELOG.md",
+    "CONTRIBUTING.md",
+    "docs/INSTALLATION.md",
+    "docs",
+    "modules/README.md",
+    "modules",
+    "vault/01 Dashboard/Sessions.md",
+    "vault/01 Dashboard/Projects.md",
+    "vault/01 Dashboard/Knowledge.md",
+    "vault/01 Dashboard/Home.md",
+    "vault/00 System/Templates",
+    "vault/00 System/Scripts",
+    "vault/00 System/Assets",
+    "vault/Daily",
+    "vault/Archive",
+    "vault/05 Resources",
+    "vault/04 Projects",
+    "vault/03 Sessions",
+    "01 Dashboard/Sessions.md",
     "01 Dashboard/README.md",
     "01 Dashboard/Projects.md",
     "01 Dashboard/Navigation.md",
     "01 Dashboard/Knowledge.md",
-    "01 Dashboard/Home.md",
-    "01 Dashboard/Sessions.md",
-    "01 Dashboard/Assets",
-    "Untitled.md",
-    "00 System/Templates/Work Session.md",
-    "00 System/Templates/Resource.md",
-    "00 System/Templates/Project.md",
-    "00 System/Templates/Meeting.md",
-    "00 System/Templates/Idea.md",
-    "00 System/Templates/Daily.md",
-    "00 System/Templates/Concept.md",
-    "00 System/Templates",
-    "00 System/Scripts",
-    "00 System/Assets",
-    "00 System",
-    "01 Dashboard",
-    "02 Notes",
-    "03 Sessions",
-    "04 Projects/Project FUTURE.md",
-    "04 Projects",
-    "05 Resources",
-    "00 System copy/Templates/Work Session.md",
-    "00 System copy/Templates/Resource.md",
-    "00 System copy/Templates/Project.md",
-    "00 System copy/Templates/Meeting.md",
-    "00 System copy/Templates/Idea.md",
-    "00 System copy/Templates/Daily.md",
-    "00 System copy/Templates/Concept.md",
-    "01 Dashboard copy/Sessions.md",
-    "01 Dashboard copy/Projects.md",
-    "01 Dashboard copy/Knowledge.md",
-    "01 Dashboard copy/Home.md"
+    "01 Dashboard/Home.md"
   ]
 }

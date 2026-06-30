@@ -1,8 +1,8 @@
-# Home
+# 🏠 Home
 
-## Today
+## Today's Note
 ```dataview
-TABLE created
+LIST
 FROM "Daily"
 SORT file.name DESC
 LIMIT 1
@@ -12,7 +12,7 @@ LIMIT 1
 ```dataview
 TABLE status, priority
 FROM "04 Projects"
-WHERE type="project" AND status!="completed"
+WHERE type="project" AND status="active"
 ```
 
 ## Recent Sessions
@@ -20,6 +20,15 @@ WHERE type="project" AND status!="completed"
 TABLE project, created
 FROM "03 Sessions"
 WHERE type="session"
+SORT created DESC
+LIMIT 10
+```
+
+## Recent Ideas
+```dataview
+LIST
+FROM "02 Notes"
+WHERE type="idea"
 SORT created DESC
 LIMIT 5
 ```
